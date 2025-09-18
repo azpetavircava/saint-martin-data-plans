@@ -74,3 +74,10 @@ layout: default
 
 *   **手机解锁**：这是大前提！合约机、部分运营商定制机可能锁网。出发前联系原运营商确认解锁状态。
 *   **eSIM手机福音**：2025年，支持eSIM的主流旗舰机（iPhone XS后、Pixel 3后、新三星Galaxy等）有
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Saint Martin SIM 卡购买与激活指南](https://faciylike.github.io/saint-martin-sim-guides)
